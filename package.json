@@ -1,0 +1,13 @@
+{
+  "id": "devrant",
+  "name": "devRant",
+  "version": "1.0.17",
+  "description": "devRant",
+  "main": "index.js",
+  "author": "Faber Vergara <fabervergara@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://devrant.com/",
+    "hasNotificationSound": true
+  }
+}
