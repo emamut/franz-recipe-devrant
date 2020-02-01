@@ -1,4 +1,4 @@
-# DevRant for Franz
+# devRant for Franz
 This is the unofficial Franz recipe for WhatsApp
 
 ### How to create your own Franz recipes:
